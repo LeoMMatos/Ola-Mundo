@@ -19,5 +19,6 @@ Núm | Nome | Nota
 2 | Léo Quitite | 9,9
 3 | Jobé | 10,0
 4 | V3S | 9,9
+5 | Rômu | 9,7
 
 Fim da tabela.
