@@ -9,7 +9,7 @@ Linha adicionada diretamente do site. Impressionante!
 
 ## To do 
 - [X] Criar cronograma semanal.
-- [ ] Testar tela de venda com o Whatsapp ativo.
+- [X] Testar tela de venda com o Whatsapp ativo.
 - [ ] Validar venda com Novartis.
 
 
